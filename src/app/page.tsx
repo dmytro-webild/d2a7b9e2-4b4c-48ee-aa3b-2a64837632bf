@@ -79,7 +79,7 @@ export default function LandingPage() {
           imageAlt: "university campus architecture",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/young-team-coworkers-working-project_273609-15664.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3dlZXztnGOXm3l3IQqJ6oej2t/uploaded-1779471600387-goawmqe4.jpg",
           imageAlt: "international students mobility",
         },
         {
@@ -95,7 +95,7 @@ export default function LandingPage() {
           imageAlt: "student mobility graduate",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/boys-with-bags-girls-with-touristic-map-look-something-up-somewhere-old-city_8353-1633.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3dlZXztnGOXm3l3IQqJ6oej2t/uploaded-1779471540902-gudim09o.jpg",
           imageAlt: "global academic strategy",
         },
       ]}
