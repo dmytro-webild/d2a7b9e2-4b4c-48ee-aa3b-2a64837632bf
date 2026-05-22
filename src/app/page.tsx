@@ -51,7 +51,7 @@ export default function LandingPage() {
           id: "#contact",
         },
       ]}
-      brandName="TGlobal"
+      brandName="TareaGlobal"
       button={{
         text: "Book a Free Call",
         href: "#contact",
@@ -75,7 +75,7 @@ export default function LandingPage() {
       ]}
       slides={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/students-talking-outside-campus_23-2147850665.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3dlZXztnGOXm3l3IQqJ6oej2t/uploaded-1779470380379-mfqwdkcs.jpg",
           imageAlt: "university campus architecture",
         },
         {
