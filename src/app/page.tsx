@@ -83,7 +83,7 @@ export default function LandingPage() {
           imageAlt: "international students mobility",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-people-table-office-meeting_23-2148817061.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3dlZXztnGOXm3l3IQqJ6oej2t/uploaded-1779470578839-3s2xfmf5.jpg",
           imageAlt: "faculty academic exchange",
         },
         {
