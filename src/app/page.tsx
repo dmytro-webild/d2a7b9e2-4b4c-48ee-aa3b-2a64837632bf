@@ -61,7 +61,7 @@ export default function LandingPage() {
 
   <div id="hero" data-section="hero">
       <HeroCarouselLogo
-      logoText="TGlobal"
+      logoText="TareaGlobal"
       description="We Help Universities Build Global Partnerships — Faster. MOU support and student mobility experts for 18+ countries."
       buttons={[
         {
