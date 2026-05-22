@@ -91,7 +91,7 @@ export default function LandingPage() {
           imageAlt: "global network connection",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/expressive-man-is-posing-studio_176474-59750.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E3dlZXztnGOXm3l3IQqJ6oej2t/uploaded-1779471026973-klyuptds.jpg",
           imageAlt: "student mobility graduate",
         },
         {
